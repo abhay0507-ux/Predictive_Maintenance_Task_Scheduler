@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+backups/
+ml/failure_model.pkl
+cpp_engine/scheduler_engine
+cpp_engine/*.exe
